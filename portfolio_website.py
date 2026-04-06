@@ -105,7 +105,7 @@ PROJECTS = [
 
     {
         "id": "sales_report",
-        "title": "Sales Performance Dashboard",
+        "title": "Sales Performance Track Dashboard",
         "tagline": "Sales trends and profit insights",
         "description": "A dynamic dashboard analyzing sales, profit, product performance, and regional distribution with interactive filters.",
         "tech": ["Power BI"],
