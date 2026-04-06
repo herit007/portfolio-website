@@ -99,6 +99,13 @@ PROJECTS = [
         "tagline": "Employee insights and performance overview",
         "description": "An interactive dashboard showing employee count, salary distribution, department analysis, and regional insights.",
         "tech": ["Power BI"],
+        "insights": [
+            "Identified department-wise employee distribution, highlighting Marketing and Finance as the largest teams.",
+            "Analyzed salary allocation across departments to understand cost concentration and budget usage.",
+            "Compared active vs inactive employees to track workforce engagement and attrition patterns.",
+            "Observed regional performance trends, with the West region contributing the highest overall metrics.",
+            "Tracked monthly trends to identify fluctuations in company performance over time."
+        ],
         "image_url": "company_report.png",
         "color": "#3b82f6",
     },
@@ -109,6 +116,13 @@ PROJECTS = [
         "tagline": "Sales trends and profit insights",
         "description": "A dynamic dashboard analyzing sales, profit, product performance, and regional distribution with interactive filters.",
         "tech": ["Power BI"],
+        "insights": [
+            "Identified top-performing products like Paseo contributing the highest sales revenue.",
+            "Analyzed sales distribution across segments, with Government and Small Business leading.",
+            "Compared profit margins across segments to evaluate business efficiency.",
+            "Observed country-wise profit contribution, with France and Germany as top contributors.",
+            "Tracked overall sales, units sold, and profit to understand business growth trends."
+        ],
         "image_url": "sales_report.png",
         "color": "#a855f7",
     },
