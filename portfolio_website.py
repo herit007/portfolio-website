@@ -92,6 +92,26 @@ PROJECTS = [
         "image_url": "retail_sales_dashboard.png",
         "color": "#ec4899",
     },
+
+    {
+        "id": "company_report",
+        "title": "Company HR Analytics Dashboard",
+        "tagline": "Employee insights and performance overview",
+        "description": "An interactive dashboard showing employee count, salary distribution, department analysis, and regional insights.",
+        "tech": ["Power BI"],
+        "image": "company_report.png",
+        "color": "#3b82f6",
+    },
+
+    {
+        "id": "sales_report",
+        "title": "Sales Performance Dashboard",
+        "tagline": "Sales trends and profit insights",
+        "description": "A dynamic dashboard analyzing sales, profit, product performance, and regional distribution with interactive filters.",
+        "tech": ["Power BI"],
+        "image": "sales_report.png",
+        "color": "#a855f7",
+    },
 ]
 
 # ── Global CSS ──────────────────────────────────────────────────────────────────
