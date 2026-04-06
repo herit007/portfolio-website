@@ -99,7 +99,7 @@ PROJECTS = [
         "tagline": "Employee insights and performance overview",
         "description": "An interactive dashboard showing employee count, salary distribution, department analysis, and regional insights.",
         "tech": ["Power BI"],
-        "image": "company_report.png",
+        "image_url": "company_report.png",
         "color": "#3b82f6",
     },
 
@@ -109,7 +109,7 @@ PROJECTS = [
         "tagline": "Sales trends and profit insights",
         "description": "A dynamic dashboard analyzing sales, profit, product performance, and regional distribution with interactive filters.",
         "tech": ["Power BI"],
-        "image": "sales_report.png",
+        "image_url": "sales_report.png",
         "color": "#a855f7",
     },
 ]
