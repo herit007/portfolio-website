@@ -74,6 +74,26 @@ PROJECTS = [
     },
 
     {
+        "id": "Retail_Sales_Dashboard",
+        "title": "Retail Sales Dashboard",
+        "tagline": "Business Intelligence & Customer Insights",
+        "description": (
+            "An interactive dashboard analyzing retail sales performance, customer behavior, and product trends."
+            "Designed to help businesses track KPIs, identify growth opportunities, and understand churn patterns."
+        ),
+        "tech": ["Power BI", "Data Visualization"],
+        "insights": [
+           "Sales show strong peaks in February and June, followed by a sharp decline in mid-year indicating seasonal demand patterns.",
+            "Customer churn rate is significantly high (~36%), suggesting retention strategies need improvement.",
+            "Electronics category dominates revenue (~81%), making it the primary driver of business performance.",
+            "Mumbai and Delhi contribute the highest sales, highlighting key geographic markets.",
+            "High-value products like laptops and mobiles generate most of the revenue despite fewer orders."
+        ],
+        "image_url": "retail_sales_dashboard.png",
+        "color": "#ec4899",
+    },
+
+    {
         "id": "student_attendance",
         "title": "Student Attendance Analysis Dashboard",
         "tagline": "Attendance tracking and behavior insights",
@@ -105,26 +125,6 @@ PROJECTS = [
             "Compared total orders, returns, and revenue to measure efficiency.",
             "Observed monthly sales trends to detect seasonal patterns."
         ]
-    },
-
-    {
-        "id": "Retail_Sales_Dashboard",
-        "title": "Retail Sales Dashboard",
-        "tagline": "Business Intelligence & Customer Insights",
-        "description": (
-            "An interactive dashboard analyzing retail sales performance, customer behavior, and product trends."
-            "Designed to help businesses track KPIs, identify growth opportunities, and understand churn patterns."
-        ),
-        "tech": ["Power BI", "Data Visualization"],
-        "insights": [
-           "Sales show strong peaks in February and June, followed by a sharp decline in mid-year indicating seasonal demand patterns.",
-            "Customer churn rate is significantly high (~36%), suggesting retention strategies need improvement.",
-            "Electronics category dominates revenue (~81%), making it the primary driver of business performance.",
-            "Mumbai and Delhi contribute the highest sales, highlighting key geographic markets.",
-            "High-value products like laptops and mobiles generate most of the revenue despite fewer orders."
-        ],
-        "image_url": "retail_sales_dashboard.png",
-        "color": "#ec4899",
     },
 
     {
