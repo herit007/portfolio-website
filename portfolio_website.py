@@ -79,7 +79,7 @@ PROJECTS = [
         "tagline": "Attendance tracking and behavior insights",
         "description": "A comprehensive dashboard analyzing student attendance, behavior patterns, and academic performance across subjects.",
         "tech": ["Power BI"],
-        "image": "student_attendance.png",
+        "image_url": "student_attendance.png",
         "color": "#2563eb",
         "insights": [
             "Tracked overall attendance rate, showing 90% student presence across the dataset.",
@@ -96,7 +96,7 @@ PROJECTS = [
         "tagline": "Customer behavior and sales performance insights",
         "description": "An interactive dashboard analyzing sales trends, customer behavior, product performance, and revenue distribution.",
         "tech": ["Power BI"],
-        "image": "sales_customer_dashboard.png",
+        "image_url": "sales_customer_dashboard.png",
         "color": "#0ea5e9",
         "insights": [
             "Tracked total sales and units sold to evaluate business growth.",
