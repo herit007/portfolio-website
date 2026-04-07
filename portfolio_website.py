@@ -99,7 +99,7 @@ PROJECTS = [
         "tagline": "Academic performance and student insights",
         "description": "An interactive dashboard analyzing student performance, attendance trends, subject-wise scores, and demographic filters.",
         "tech": ["Power BI"],
-        "image": "student_performance_dashboard.png",
+        "image_url": "student_performance_dashboard.png",
         "color": "#1e40af",
         "insights": [
             "Tracked total students, attendance percentage, and average score using KPI cards.",
