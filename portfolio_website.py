@@ -74,6 +74,40 @@ PROJECTS = [
     },
 
     {
+        "id": "student_attendance",
+        "title": "Student Attendance Analysis Dashboard",
+        "tagline": "Attendance tracking and behavior insights",
+        "description": "A comprehensive dashboard analyzing student attendance, behavior patterns, and academic performance across subjects.",
+        "tech": ["Power BI"],
+        "image": "student_attendance.png",
+        "color": "#2563eb",
+        "insights": [
+            "Tracked overall attendance rate, showing 90% student presence across the dataset.",
+            "Analyzed present vs absent trends to identify attendance patterns.",
+            "Evaluated student behavior categories such as disruptive, helpful, and participative.",
+            "Compared subject-wise performance across different exam types.",
+            "Identified top-performing students based on attendance percentage."
+        ]
+    },
+
+    {
+        "id": "sales_customer",
+        "title": "Sales & Customer Intelligence Dashboard",
+        "tagline": "Customer behavior and sales performance insights",
+        "description": "An interactive dashboard analyzing sales trends, customer behavior, product performance, and revenue distribution.",
+        "tech": ["Power BI"],
+        "image": "sales_customer_dashboard.png",
+        "color": "#0ea5e9",
+        "insights": [
+            "Tracked total sales and units sold to evaluate business growth.",
+            "Analyzed category-wise performance including furniture, office supplies, and technology.",
+            "Identified top-selling subcategories such as accessories and binders.",
+            "Compared total orders, returns, and revenue to measure efficiency.",
+            "Observed monthly sales trends to detect seasonal patterns."
+        ]
+    },
+
+    {
         "id": "Retail_Sales_Dashboard",
         "title": "Retail Sales Dashboard",
         "tagline": "Business Intelligence & Customer Insights",
