@@ -94,19 +94,20 @@ PROJECTS = [
     },
 
     {
-        "id": "student_attendance",
-        "title": "Student Attendance Analysis Dashboard",
-        "tagline": "Attendance tracking and behavior insights",
-        "description": "A comprehensive dashboard analyzing student attendance, behavior patterns, and academic performance across subjects.",
+        "id": "student_performance",
+        "title": "Student Performance & Analysis Dashboard",
+        "tagline": "Academic performance and student insights",
+        "description": "An interactive dashboard analyzing student performance, attendance trends, subject-wise scores, and demographic filters.",
         "tech": ["Power BI"],
-        "image_url": "student_attendance.png",
-        "color": "#2563eb",
+        "image": "student_performance_dashboard.png",
+        "color": "#1e40af",
         "insights": [
-            "Tracked overall attendance rate, showing 90% student presence across the dataset.",
-            "Analyzed present vs absent trends to identify attendance patterns.",
-            "Evaluated student behavior categories such as disruptive, helpful, and participative.",
-            "Compared subject-wise performance across different exam types.",
-            "Identified top-performing students based on attendance percentage."
+            "Tracked total students, attendance percentage, and average score using KPI cards.",
+            "Analyzed subject-wise average scores to compare academic performance.",
+            "Visualized monthly attendance trends to identify fluctuations over time.",
+            "Segmented students by section and gender for deeper analysis.",
+            "Compared exam performance across subjects and exam types.",
+            "Identified top-performing students based on attendance and score metrics."
         ]
     },
 
