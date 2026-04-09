@@ -170,7 +170,7 @@ PROJECTS = [
         "tagline": "Sales trends and regional performance insights",
         "description": "A dashboard analyzing monthly sales trends, regional distribution, and product-wise performance.",
         "tech": ["Power BI"],
-        "image": "sales_dashboard.png",
+        "image_url": "sales_dashboard.png",
         "color": "#0ea5e9",
         "insights": [
             "Analyzed monthly sales growth trends to identify fluctuations.",
@@ -188,7 +188,7 @@ PROJECTS = [
         "tagline": "Behavior analysis and academic performance insights",
         "description": "An interactive dashboard combining student behavior analysis with academic performance tracking.",
         "tech": ["Power BI"],
-        "image": "student_behavior_dashboard.png",
+        "image_url": "student_behavior_dashboard.png",
         "color": "#f97316",
         "insights": [
             "Tracked behavior patterns such as disruptive, late, and participative actions.",
