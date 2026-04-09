@@ -178,7 +178,7 @@ PROJECTS = [
             "Compared Books vs Electronics sales performance.",
             "Highlighted seasonal sales patterns and growth rate changes."
         ],
-        "image": "sales_dashboard.png",
+        "image_url": "sales_dashboard.png",
         "color": "#0ea5e9",
     },
 
