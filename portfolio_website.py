@@ -1,8 +1,6 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(layout="wide")
-
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="DataCraft — Portfolio",
@@ -221,13 +219,11 @@ def inject_css():
         [data-testid="collapsedControl"] { display: none; }
         .stDeployButton { display: none; }
 
-        /* Remove default top padding */
         .block-container {
-            padding-top: 0 !important;
-            padding-bottom: 2rem !important;
-            max-width: 1100px !important;
+            max-width: 100% !important;
+            padding: 2rem 3rem;
         }
-
+        
         /* ── Navbar ── */
         .navbar {
             display: flex;
