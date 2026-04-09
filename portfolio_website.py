@@ -1,6 +1,8 @@
 import streamlit as st
 from PIL import Image
 
+st.set_page_config(layout="wide")
+
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="DataCraft — Portfolio",
@@ -160,6 +162,42 @@ PROJECTS = [
         ],
         "image_url": "sales_report.png",
         "color": "#a855f7",
+    },
+    
+    {
+        "id": "sales_analysis",
+        "title": "Sales Analysis Dashboard",
+        "tagline": "Sales trends and regional performance insights",
+        "description": "A dashboard analyzing monthly sales trends, regional distribution, and product-wise performance.",
+        "tech": ["Power BI"],
+        "image": "sales_dashboard.png",
+        "color": "#0ea5e9",
+        "insights": [
+            "Analyzed monthly sales growth trends to identify fluctuations.",
+            "Compared sales performance across regions (Central, East, West, North, South).",
+            "Identified top-performing product categories.",
+            "Evaluated contribution of each region to total sales.",
+            "Compared Books vs Electronics sales performance.",
+            "Highlighted seasonal sales patterns and growth rate changes."
+        ]
+    },
+
+    {
+        "id": "student_behavior",
+        "title": "Student Behavior & Performance Dashboard",
+        "tagline": "Behavior analysis and academic performance insights",
+        "description": "An interactive dashboard combining student behavior analysis with academic performance tracking.",
+        "tech": ["Power BI"],
+        "image": "student_behavior_dashboard.png",
+        "color": "#f97316",
+        "insights": [
+            "Tracked behavior patterns such as disruptive, late, and participative actions.",
+            "Analyzed performance across subjects and sections.",
+            "Visualized student distribution by gender and section.",
+            "Compared academic performance across different terms.",
+            "Identified trends between behavior and performance.",
+            "Highlighted areas for student improvement and engagement."
+        ]
     },
 ]
 
