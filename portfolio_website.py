@@ -33,7 +33,7 @@ PROJECTS = [
             "Year-over-year growth in UPI usage highlights rapid digital payment adoption.",
             "Transaction trends show consistent upward movement across multiple years."
         ],
-        "image_url": "upi_dashboard.png",
+        "image_url": "assets/upi_dashboard.png",
         "color": "#6366f1",
     },
 
@@ -51,7 +51,7 @@ PROJECTS = [
             "Exchange rate trends show steady growth with forecasted upward movement.",
             "YoY change indicates slight decline (-3.88%), highlighting short-term fluctuations."
         ],
-        "image_url": "currency_dashboard.png",
+        "image_url": "assets/currency_dashboard.png",
         "color": "#10b981",
     },
 
@@ -70,7 +70,7 @@ PROJECTS = [
             "Employee distribution across cities is relatively balanced with slight variations.",
             "Performance score trends show fluctuations across different levels."
         ],
-        "image_url": "hr_dashboard.png",
+        "image_url": "assets/hr_dashboard.png",
         "color": "#f59e0b",
 
     },
@@ -91,7 +91,7 @@ PROJECTS = [
             "Mumbai and Delhi contribute the highest sales, highlighting key geographic markets.",
             "High-value products like laptops and mobiles generate most of the revenue despite fewer orders."
         ],
-        "image_url": "retail_sales_dashboard.png",
+        "image_url": "assets/retail_sales_dashboard.png",
         "color": "#ec4899",
     },
 
@@ -100,8 +100,8 @@ PROJECTS = [
         "title": "Student Performance & Analysis Dashboard",
         "tagline": "Academic performance and student insights",
         "description": "An interactive dashboard analyzing student performance, attendance trends, subject-wise scores, and demographic filters.",
-        "tech": ["Power BI"],
-        "image_url": "student_performance_dashboard.png",
+        "tech": ["Power BI", "Data Visualization"],
+        "image_url": "assets/student_performance_dashboard.png",
         "color": "#1e40af",
         "insights": [
             "Tracked total students, attendance percentage, and average score using KPI cards.",
@@ -118,8 +118,8 @@ PROJECTS = [
         "title": "Sales & Customer Intelligence Dashboard",
         "tagline": "Customer behavior and sales performance insights",
         "description": "An interactive dashboard analyzing sales trends, customer behavior, product performance, and revenue distribution.",
-        "tech": ["Power BI"],
-        "image_url": "sales_customer_dashboard.png",
+        "tech": ["Power BI", "Data Visualization"],
+        "image_url": "assets/sales_customer_dashboard.png",
         "color": "#0ea5e9",
         "insights": [
             "Tracked total sales and units sold to evaluate business growth.",
@@ -135,7 +135,7 @@ PROJECTS = [
         "title": "Company HR Analytics Dashboard",
         "tagline": "Employee insights and performance overview",
         "description": "An interactive dashboard showing employee count, salary distribution, department analysis, and regional insights.",
-        "tech": ["Power BI"],
+        "tech": ["Power BI", "Data Visualization"],
         "insights": [
             "Identified department-wise employee distribution, highlighting Marketing and Finance as the largest teams.",
             "Analyzed salary allocation across departments to understand cost concentration and budget usage.",
@@ -143,7 +143,7 @@ PROJECTS = [
             "Observed regional performance trends, with the West region contributing the highest overall metrics.",
             "Tracked monthly trends to identify fluctuations in company performance over time."
         ],
-        "image_url": "company_report.png",
+        "image_url": "assets/company_report.png",
         "color": "#3b82f6",
     },
 
@@ -152,7 +152,7 @@ PROJECTS = [
         "title": "Sales Performance Track Dashboard",
         "tagline": "Sales trends and profit insights",
         "description": "A dynamic dashboard analyzing sales, profit, product performance, and regional distribution with interactive filters.",
-        "tech": ["Power BI"],
+        "tech": ["Power BI", "Data Visualization"],
         "insights": [
             "Identified top-performing products like Paseo contributing the highest sales revenue.",
             "Analyzed sales distribution across segments, with Government and Small Business leading.",
@@ -160,16 +160,16 @@ PROJECTS = [
             "Observed country-wise profit contribution, with France and Germany as top contributors.",
             "Tracked overall sales, units sold, and profit to understand business growth trends."
         ],
-        "image_url": "sales_report.png",
+        "image_url": "assets/sales_report.png",
         "color": "#a855f7",
     },
     
     {
         "id": "sales_analysis",
-        "title": "Sales Analysis Dashboard",
+        "title": "Sales Analysis & Performance Dashboard",
         "tagline": "Sales trends and regional performance insights",
         "description": "A dashboard analyzing monthly sales trends, regional distribution, and product-wise performance.",
-        "tech": ["Power BI"],
+        "tech": ["Excel", "Data Visualization"],
         "insights": [
             "Analyzed monthly sales growth trends to identify fluctuations.",
             "Compared sales performance across regions (Central, East, West, North, South).",
@@ -178,7 +178,7 @@ PROJECTS = [
             "Compared Books vs Electronics sales performance.",
             "Highlighted seasonal sales patterns and growth rate changes."
         ],
-        "image_url": "sales_dashboard.png",
+        "image_url": "assets/Sales Analysis Dashboard.png",
         "color": "#0ea5e9",
     },
 
@@ -187,7 +187,7 @@ PROJECTS = [
         "title": "Student Behavior & Performance Dashboard",
         "tagline": "Behavior analysis and academic performance insights",
         "description": "An interactive dashboard combining student behavior analysis with academic performance tracking.",
-        "tech": ["Power BI"],
+        "tech": ["Power BI", "Data Visualization"],
         "insights": [
             "Tracked behavior patterns such as disruptive, late, and participative actions.",
             "Analyzed performance across subjects and sections.",
@@ -196,7 +196,7 @@ PROJECTS = [
             "Identified trends between behavior and performance.",
             "Highlighted areas for student improvement and engagement."
         ],
-        "image_url": "student_behavior_dashboard.png",
+        "image_url": "assets/student_behavior_dashboard.png",
         "color": "#f97316",
     },
 ]
